@@ -130,4 +130,15 @@ background-color: white;
 button:hover
 {
 cursor: pointer;
+background-color: rgb(10, 123, 10);
+}
+
+#lien1:hover
+{
+text-decoration: underline;
+}
+
+#lien2:hover
+{
+text-decoration: underline;
 }
