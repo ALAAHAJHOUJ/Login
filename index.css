@@ -16,6 +16,7 @@ height:500px;
 display: flex;
 flex-direction: column;
 background-color: rgb(16, 168, 16);
+overflow:hidden;
 }
 
 .fils
